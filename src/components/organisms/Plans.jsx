@@ -99,7 +99,7 @@ const Plans = () => {
   </SimpleGrid>
   
   <Flex bg="#fff" color="#003767" rounded="15px" boxShadow="xl" p="5" align="center" direction="column" mt="40px" w="2xl" >
-  <HStack divider={<StackDivider borderColor="gray.200" />} align="center" spacing={4} textAlign="start">
+  <HStack divider={<StackDivider borderColor="gray.200" />}  spacing={4} textAlign="start">
     <Box>Add <strong>WholeHome Wi-Fi</strong> for only $9.95/mo </Box>
     <Box>WholeHome Wi-Fi covers your entire house with consistent reliable signal strength. </Box>
   </HStack>

@@ -5,7 +5,6 @@ import Cta from '../src/components/organisms/Cta'
 import Plans from '../src/components/organisms/Plans'
 import About from '../src/components/organisms/About'
 import Services from '../src/components/organisms/Services'
-import CtaFooter from '../src/components/organisms/CtaFooter'
 import Awards from '../src/components/organisms/Awards'
 
 export default function Home() {
