@@ -7,7 +7,7 @@ const TelephoneHeader = () => {
     <>
     <Box display="flex" alignItems="center">
       <Box margin="5px" color="#FFF" fontWeight="700">
-      <PhoneIcon mr="5px" color="#fff" /><Link href="tel:+18339803434" >
+      <PhoneIcon mr="5px" color="#fff" /><Link textDecor="none !important" href="tel:+18339803434" >
 1 (833) 980-3434</Link>
       </Box>
     </Box>
